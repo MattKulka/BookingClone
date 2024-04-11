@@ -1,6 +1,11 @@
 ### [Live Link](https://bookingclone-sqde.onrender.com/)
+https://github.com/MattKulka/BookingClone/assets/92747257/de51691f-2489-4fed-81cc-04e662bcb230
 
 ## Next.js Booking App - Ethical Web Scraping
+
+
+
+
 
 This project implements a functional Booking.com clone using Next.js. It leverages web scraping techniques to retrieve accommodation data while adhering to ethical scraping practices (avoid overwhelming Booking.com's servers and respecting their terms). Users can search for hotels based on location, dates, and number of guests, with results displayed within the application.
 
