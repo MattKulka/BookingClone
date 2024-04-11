@@ -1,7 +1,7 @@
 ### [Live Link](https://bookingclone-sqde.onrender.com/)
 https://github.com/MattKulka/BookingClone/assets/92747257/de51691f-2489-4fed-81cc-04e662bcb230
 
-## Next.js Booking App - Ethical Web Scraping
+## Next.js Booking.com clone - Ethical Web Scraping
 
 
 
